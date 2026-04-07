@@ -1,5 +1,5 @@
 # defcon
-Slide and workflow for defon Paris
+Slide and workflow for DEFCON Paris
 
 ## Slides
 
